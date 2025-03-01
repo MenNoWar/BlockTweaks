@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockTweaks", "BlockTweaks.csproj", "{463862B2-698F-44FD-8A9E-F600655BA681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463862B2-698F-44FD-8A9E-F600655BA681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463862B2-698F-44FD-8A9E-F600655BA681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463862B2-698F-44FD-8A9E-F600655BA681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463862B2-698F-44FD-8A9E-F600655BA681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6C10E9-3078-45A9-9F64-F58BC14CDD66}
+	EndGlobalSection
+EndGlobal

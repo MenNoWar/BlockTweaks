@@ -396,5 +396,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-# JetBrains Rider
 *.sln.iml
+/packages
+/publish_template/BlockTweaks.dll
+/publish_template/BlockTweaks.zip
+/publish_template/README.md
